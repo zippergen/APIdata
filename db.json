@@ -1,17 +1,17 @@
-"easy": [
+"easy": {
   {"category":"weather","type":"multiple","difficulty":"easy","question":"This phenomenon is simply a tornado over the sea.","correct_answer":"waterspout","incorrect_answer":"funnel, whitecaps","shuffled_answers":["waterspout","funnel"," whitecaps"]},
   {"category":"weather","type":"multiple","difficulty":"easy","question":"This is a rapid flooding of low-lying areas rivers, dry lakes and basins. It may be caused by heavy rain associated with a storm, hurricane, tropical storm or meltwater from ice or.","correct_answer":"flash floods","incorrect_answer":"earthquake, tsunami","shuffled_answers":[" tsunami","earthquake","flash floods"]},
   {"category":"weather","type":"multiple","difficulty":"easy","question":"This is posted 36 hours prior to an expected weather event.","correct_answer":"warning","incorrect_answer":"signal, alert","shuffled_answers":["signal"," alert","warning"]},
-],
-"medium": [
+},
+"medium": {
   {
     "id": 1,
     "title": "hello"
   }
-],
-"hard": [
+},
+"hard": {
   {
     "id": 1,
     "title": "hello"
   }
-],
+},
