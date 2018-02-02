@@ -1,6 +1,5 @@
 [
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "This phenomenon is simply a tornado over the sea.",
@@ -8,7 +7,6 @@
     "incorrect_answer": "funnel, whitecaps"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "This is a rapid flooding of low-lying areas rivers, dry lakes and basins. It may be caused by heavy rain associated with a storm, hurricane, tropical storm or meltwater from ice or.",
@@ -16,7 +14,6 @@
     "incorrect_answer": "earthquake, tsunami"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "This is posted 36 hours prior to an expected weather event.",
@@ -24,7 +21,6 @@
     "incorrect_answer": "signal, alert"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "It is a situation that poses a level of threat to%uFFFDlife,%uFFFDhealth,%uFFFDproperty, or%uFFFDenvironment.",
@@ -32,7 +28,6 @@
     "incorrect_answer": "risk, threat"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "fulfills the requiurement of RA no. 10121 of 2010 that provides the legal basis for policies, plans and programs to deal with disaster",
@@ -40,7 +35,6 @@
     "incorrect_answer": "NDRMMC, NDRRMP"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "easy",
     "question": "it causes changes in landscape such as pattern of storm-waterr drainage on slope and others",
@@ -48,7 +42,6 @@
     "incorrect_answer": "volcanic change, volcanic preservation"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "a%uFFFDnaturally%uFFFDoccurring event that might have a negative effect on people or the\nenvironment.",
@@ -56,7 +49,6 @@
     "incorrect_answer": "man made hazard, artificial hazard"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "are threats having an element of human intent, negligence, or error;\nor involving a failure of a human-made system.",
@@ -64,7 +56,6 @@
     "incorrect_answer": "nature induced, artificial induced"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "- are measures that eliminate or reduce the impacts and risks of hazards\nthrough proactive measures taken before an emergency or disaster occurs.",
@@ -72,7 +63,6 @@
     "incorrect_answer": "nature mitigation, chemical mitigation"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "The probability or threat of quantifiable damage, injury, liability, loss, or any other\nnegative occurrence that is caused by external or internal vulnerabilities, and that may be\navoided through preemptive action.",
@@ -80,7 +70,6 @@
     "incorrect_answer": "alert, threat"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "- is a serious disruption of the functioning of a community or a society involving\nwidespread human, material, economic or environmental losses and impacts, which exceeds the\nability of the affected community or society to cope using its own resources.",
@@ -88,7 +77,6 @@
     "incorrect_answer": "risk, alert, threat"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "forward planning process, in a state of uncertainty, in which scenarios\nand objectives are agreed, managerial and technical actions defined, and potential response\nsystems put in place in order to prevent, or better respond to, an emergency or critical situation.",
@@ -96,7 +84,6 @@
     "incorrect_answer": "contingency evacuation, none of the above"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "medium",
     "question": "what is the best you can do during typhoon?",
@@ -104,7 +91,6 @@
     "incorrect_answer": ""
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "which is not included in a disaster plan?",
@@ -112,7 +98,6 @@
     "incorrect_answer": "get informed, plan, assemble supplies"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "which is a Human-instigated DISASTER.",
@@ -120,7 +105,6 @@
     "incorrect_answer": "artificial, nature"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "During a disaster, we need at least a three-day supply of ____",
@@ -128,7 +112,6 @@
     "incorrect_answer": "candies, soda and chips"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "What should every family have in their home to help during a disaster?",
@@ -136,7 +119,6 @@
     "incorrect_answer": "food storage, clothes"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "To prepare for this natural disaster, secure your water heater, refrigerator, furnace, and gas\nappliances by strapping them to the wall studs and bolting to the floor.",
@@ -144,7 +126,6 @@
     "incorrect_answer": "flash flood, tsunami"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "the number in Fahrenheit that tells us how hot it really\nfeels with humidity and full sunshine",
@@ -152,7 +133,6 @@
     "incorrect_answer": "heat margin, heat complex"
   },
   {
-    "category": "weather",
     "type": "multiple",
     "difficulty": "hard",
     "question": "Role of PAGASA in disaster management",
